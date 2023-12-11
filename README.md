@@ -18,4 +18,4 @@ How to Contact Me...
 --------------------
 My preffered method of contact is through email, you can reach me at debusk.elijah@gmail.com
 
-<button>Boo!</button>
+<button type='button' onclick='alert("Boo!")'>Click Me</button>
